@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Project\\Vidly\\Vidly.csproj": {}
+    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Project\\vidly\\Vidly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Project\\Vidly\\Vidly.csproj": {
+    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Project\\vidly\\Vidly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Project\\Vidly\\Vidly.csproj",
+        "projectUniqueName": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Project\\vidly\\Vidly.csproj",
         "projectName": "Vidly",
-        "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Project\\Vidly\\Vidly.csproj",
+        "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Project\\vidly\\Vidly.csproj",
         "packagesPath": "C:\\Users\\patha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Project\\Vidly\\obj\\",
+        "outputPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Project\\vidly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patha\\AppData\\Roaming\\NuGet\\NuGet.Config"

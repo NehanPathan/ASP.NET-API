@@ -28,3 +28,4 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Project\Vidly\obj\Debug\net8.0\refint\Vi
 C:\Users\patha\OneDrive\Desktop\ASP.NET Project\Vidly\obj\Debug\net8.0\Vidly.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Project\Vidly\obj\Debug\net8.0\Vidly.genruntimeconfig.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Project\Vidly\obj\Debug\net8.0\ref\Vidly.dll
+c:\Users\patha\OneDrive\Desktop\ASP.NET Project\Vidly\obj\Debug\net8.0\Vidly.sourcelink.json
